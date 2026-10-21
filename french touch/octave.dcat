@@ -1,0 +1,12 @@
+# E · OCTAVE :: discoteque bass shit
+bpm 128   swing 58   key a
+prog 0 0 -7 -5
+filter 0   reso .3   pump .8   drive .3   glue .5
+
+bd  x... x... x... x...  punch=.6 rumble=.25 tune=3
+cp  .... X... .... X...  verb=.3 tune=-12
+ch  xoxo xoxo xoxo xoxo  dec=.2 tune=-10
+oh  ..x. ..x. ..x. ..x.  dec=.45 tune=-11
+bs  x.x. x.x. x.x. x.x.  notes=0,12 cut=.16 dec=.25 verb=.2 dly=.51 tune=-19 res=.26
+st  x..x ..x. ..x. .x..  chord=m9 cut=.7 dec=.4 tune=-1
+ht  tune=-2
