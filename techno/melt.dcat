@@ -1,0 +1,13 @@
+# E · MELT :: work in progress
+bpm 124.5   swing 54   key a
+filter .02   pump .68   drive .3   glue .8
+verb .61
+
+bd  x... x... x... x... .... x... .... x...  punch=.65 rumble=.7 dec=.4
+cp  .... x... .... x...  lvl=.55 verb=.35
+ch  xoxo xoxo xoxo xoxo  dec=.12 lvl=.48
+oh  ..x. ..x. ..x. ..x.  dec=.25 lvl=.45
+rs  e(5,16,2)            lvl=.45 dly=.3
+pc  x..x .x.. x.x. ....  fm=.6 ratio=.55 lvl=.45 dly=.4 tune=-7
+lt  o..o o..o o..o o..o lvl=.42 
+bs  .... .... .... ?o.?  tune=0 lvl=.27
