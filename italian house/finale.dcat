@@ -1,0 +1,12 @@
+# H · FINALE :: one bar without the kick
+bpm 128   swing 58   key a
+prog 0 0 -7 -5
+filter .22   reso .4   pump .8   drive .25   glue .45
+
+bd  x... x... x... x...  lvl=0
+cp  .... x... .... x...  verb=.5
+sd  o.o. o.o. oooo xxrR  lvl=.55 snap=.7
+ch  xoxo xoxo xoxo xoxo  dec=.2
+bs  x.x. x.x. x.x. x.x.  notes=0,12 cut=.52 dec=.25
+st  x..x ..x. ..x. .x..  chord=m9 cut=.8 dec=.45
+st  verb=.5
