@@ -1,0 +1,11 @@
+# E · MONTANA :: phase-in experimental loop
+bpm 140   swing 56   key c#
+filter -.03   pump .77   drive .25   glue .4
+ prog -3 0 1 -2 reso .6
+
+bd  x.R. x... x... x... x.R. x... x... x... tune=-2
+ch  ...x ..x. ..x. ?.x. ...x ..x. ..x. ?.x.
+pc  xoX. xoX. xoX. xxX. xoX. xoX. xoX. xxX. tune=-2.5 dly=.66 lvl=.52 ratio=.25 verb=.32
+rs  oo?? ??.. ..?. ..?. ..o? ??.. ..?. ..?. dec=.45 tune=+4
+cp  >>1 r.o. r.?. r.o. R.?.
+bs .R.f ...o .o.R .f.. .R.f  rev ...o .o.R .f.. tune=7 dly=.43
