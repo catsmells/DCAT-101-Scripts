@@ -1,0 +1,11 @@
+# C · METRO :: sounds like some shit in lego city
+bpm 128   swing 51   key a
+filter 0   pump .55   drive .3   glue .4
+
+bd  x... x... x... x...  punch=.65 rumble=.7 dec=.4
+cp  .... x... .... x...  lvl=.55 verb=.35
+ch  ..x. ..xo ..x. ..xo  dec=.15 lvl=.5
+rd  ..x. ..x. ..x. ..x.  lvl=.4 dec=.4
+pc  e(5,12)              fm=.6 ratio=.55 lvl=.45 dly=.4
+st  x... .... .... ....  chord=m7 cut=.42 dec=.3
+st  lvl=.5 verb=.5 dly=.7
