@@ -1,0 +1,14 @@
+# E · MIKE :: arnold van style
+bpm 140   swing 55   key bb
+filter 0   pump .7   drive .35   glue .45
+
+bd  x... x... x... x...  punch=.6 rumble=.4
+cp  .... x... .... x..o  verb=.25
+ch  x.x. x.x. x.x. x.x.  dec=.15 lvl=.5
+oh  ..x. ..x. ..x. ..x.  dec=.35
+rs  e(5,16,2)            lvl=.45 dly=.3
+bs  x.xX .xx. xXx. .x.X  cut=.38 res=.75 dec=.27
+bs  notes=0,0,12,0,3,0,0,10,7,12 lvl=.64 tune=-7 verb=.13
+ht  .... x... .... x...  lvl=.29 tune=-5
+lt  .x.. .x.. .x.. ....
+pc  tune=1
