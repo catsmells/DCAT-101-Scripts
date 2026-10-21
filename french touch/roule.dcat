@@ -1,0 +1,15 @@
+# D · ROULÉ :: good vibes
+bpm 130   swing 56   key ab
+prog 0 0 -2 -2
+filter -.15   reso .35   pump .85   drive .3   glue .6
+verb .45   delay .5   dtime 3   dfb .45
+
+bd  x... x... x... x...  punch=.5 rumble=.15
+cp  .... x... .... x...  verb=.3
+ch  x.xo x.xo x.xo x.xo  dec=.2
+oh  ..x. ..x. ..x. ..x.  dec=.45
+ht  ..x. .... x..x ..x.  tune=7 dec=.2 bend=.15 lvl=.45 pan=.25
+rs  x..                  lvl=.3 dly=.4 pan=-.3
+bs  x..x ..x. x.x. .x.x  cut=.5 res=.35 dec=.3
+bs  notes=0,12,0,7,0,10,12
+st  .x.x ..x. .x.. x.x.  chord=m9 cut=.55 res=.3 dec=.3 dly=.35
