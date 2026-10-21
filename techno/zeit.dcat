@@ -1,0 +1,11 @@
+# A · ZEIT :: simple intro loop
+bpm 130   swing 52   key ab
+filter -.45   reso .35   pump .4   drive .3   glue .35
+verb .55   delay .5   dtime 3   dfb .5
+
+bd  x... x... x... x...  punch=.55 rumble=.65 dec=.35
+ch  ..x. ..x. ..x. ..x.  dec=.12 lvl=.45
+rs  x..                  lvl=.45 dly=.45 pan=-.3
+pc  e(3,8)               fm=.3 ratio=.6 lvl=.35 dly=.5 pan=.3
+bs  x... ..x. .... x...  cut=.25 res=.4 dec=.25
+bs  notes=0,0,-2
