@@ -1,0 +1,13 @@
+# F · COWBELL :: needs more cowbell!
+bpm 128   swing 51   key a
+filter 0   pump .55   drive .3   glue .4
+
+bd  X... x... x... x...  punch=.65 rumble=.7 dec=.4
+cp  .... x... .... x...  lvl=.55 verb=.35
+ch  oxXx oxXx oxXx oxXx  dec=.1 lvl=.45
+rd  ..x. ..x. ..x. ..x.  lvl=.4 dec=.4
+rs  ..x. ..x. .x.. x..x            lvl=.45 dly=.3
+pc  e(7,16,3)            fm=.8 ratio=.7 lvl=.4 dly=.35
+sd  .... X... .... ....
+oh  .... .... .... ....
+st  .... .... .... ....
