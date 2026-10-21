@@ -1,0 +1,13 @@
+# J · SÄURE :: tr-303 jams
+bpm 136   swing 54   key a
+prog 0 0 0 0 0 0 -2 -2  0 0 0 0 3 3 -2 -5
+filter 0   reso .3   pump .5   drive .35   glue .55
+verb .35   delay .5   dtime 3   dfb .5
+
+bd  x... x... x... x...  punch=.75 rumble=.45 dec=.35
+cp  .... x... .... x...  lvl=.5 verb=.3
+ch  x.xo x.xo x.xo x.xx  dec=.07 lvl=.45 tone=.6 air=.3
+oh  ..x. ..x. ..x. ..x.  dec=.3 lvl=.4
+rs  e(5,12)              lvl=.35 dly=.35 pan=-.3
+bs  xXx. xxXo .xXx x.Xx  cut=.28 res=.92 dec=.22 lvl=.8 dly=.15
+bs  notes=0,12,0,3,0,15,10
