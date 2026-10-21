@@ -1,0 +1,15 @@
+# A · THORIUM :: i love you joey
+bpm 122.83   swing 50   key ab
+filter -.31   pump .45   drive .35   glue .45
+
+bd  x... x... x... x...  punch=.7 rumble=0 dec=.3
+bs  .xxx .xxx .xxx .xxx  tune=-12 cut=.25 res=.15 dec=.3
+ch  XxoX xoXx oXxo XxoX  dec=.15 lvl=.5
+oh  ..x. ..x. ..x. ..x.  dec=.4 lvl=.5
+rs  ..x. .x.. x..x ..x.  tone=.7 lvl=.5 verb=0 dly=0
+cp  .... x... .... x... .... x... .... x.xx  verb=.3
+st  .oxX .Xxo .oxX .Xxo  chord=1 tune=-12 cut=.3 res=.6
+st  dec=.15 lvl=.38 verb=.25 dly=.3
+rd  x.x. x.x. x.x. x.x.  lvl=.35 pan=-.4
+# st  x... .... .... ....  chord=oct notes=11,12 tune=0
+# st  cut=.6 res=.1 dec=1 lvl=.4 verb=.7 dly=.5
