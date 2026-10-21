@@ -1,0 +1,15 @@
+# B · RUMBLE :: easy synth beat
+bpm 130   swing 52   key ab
+filter 0   reso .3   pump .55   drive .35   glue .45
+verb .45   delay .45   dtime 3   dfb .45
+
+bd  x... x... x... x...  punch=.65 rumble=.7 dec=.4
+cp  .... x... .... x...  lvl=.55 verb=.35
+ch  x.x. x.x. x.x. x.r.  dec=.14 lvl=.5
+oh  ..x. ..x. ..x. ..x.  dec=.35 lvl=.42
+rd  oooo oooo oooo oooo  lvl=.3 dec=.3 pan=.2
+rs  x..                  lvl=.4 dly=.4 pan=-.3
+lt  .... ...x .... .x..  tune=5 dec=.22 bend=.25 lvl=.45 pan=-.2
+ht  ..x. .... x..x ....  tune=7 dec=.18 bend=.2 lvl=.4 pan=.25
+bs  x..x ..x. x.x. .x.x  cut=.38 res=.45 dec=.3
+bs  notes=0,0,12,0,3,-2,0
