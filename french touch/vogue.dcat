@@ -1,0 +1,12 @@
+# B · VOGUE :: hats, and the bass starts walking smoove
+bpm 128   swing 58   key a
+prog 0 0 -7 -5
+filter -.28   reso .3   pump .75   drive .25   glue .45
+
+bd  x... x... x... x...  punch=.55 rumble=.2
+cp  .... x... .... x...  verb=.3
+ch  x.xo x.xo x.xo x.xo  dec=.22
+oh  ..x. ..x. ..x. ..x.  dec=.4
+bs  x..x ..x. x.x. .x.x  cut=.5 res=.35 dec=.3
+bs  notes=0,0,12,0,10,7,10
+st  x..x ..x. ..x. .x..  chord=m7 cut=.55 dec=.35
