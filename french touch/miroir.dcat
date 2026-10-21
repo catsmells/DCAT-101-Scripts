@@ -1,0 +1,14 @@
+# G · MIROIR :: everything turning...
+bpm 128   swing 58   key a
+prog 0 0 -7 -5
+filter 0   reso .3   pump .8   drive .3   glue .5
+
+bd  x... x... x... x...  punch=.6 rumble=.25
+cp  .... X... .... X...  verb=.3
+sd  .... ...o .... ..o.  lvl=.5
+ch  xoxo xoxo xoxo xoxo  dec=.2
+oh  ..x. ..x. ..x. ..x.  dec=.45
+rd  x.x. x.x. x.x. x.x.  lvl=.3
+bs  x..x ..x. x.x. .x.x  cut=.58 res=.35 dec=.3
+bs  notes=0,0,12,0,10,7,10
+st  x..x ..x. ..x. .x..  chord=m9 cut=.75 dec=.4
