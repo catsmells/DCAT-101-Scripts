@@ -1,0 +1,11 @@
+# D · GLOCK :: got some punchy vibes in here
+bpm 128   swing 51   key a
+filter 0   pump .55   drive .3   glue .4
+
+bd  x... x... x... x.x.  punch=.65 rumble=.7 dec=.4
+cp  .... x... .... x...  lvl=.55 verb=.35
+ch  ..x. ..xo ..x. ..r.  dec=.15 lvl=.5
+rd  ..x. ..x. ..x. ....  lvl=.4 dec=.4
+sd  .... .... .... ..or  lvl=.5
+lt  .... .... ..x. .x..  dec=.3 lvl=.55 drive=.5
+ht  .... .... .... x..x  dec=.22 lvl=.5 drive=.5
