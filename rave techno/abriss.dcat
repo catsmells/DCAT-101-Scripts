@@ -1,0 +1,18 @@
+# I · ABRISS :: 32 bars of ecstasy
+bpm 138   swing 50   key f
+prog 0 0 0 0 0 0 0 1  0 0 0 0 0 0 1 1  0 0 12 0 0 0 12 1  0 1 0 1 6 6 7 7
+filter 0   reso .5   pump .7   drive .42   glue .85
+verb .62   delay .45   dtime 3   dfb .6
+
+bd  x... x... x... x...  x... x... x... x.xr  punch=1 rumble=1 dec=.45 lvl=1
+cp  .... X... .... X...  .... X... .... X.X.  lvl=.65 spread=.6 verb=.45
+sd  .... .... .... .... .... .... .... ?.ox  lvl=.5 snap=.9
+ch  xoxx xoox xoxx xxRx  dec=.06 lvl=.55 tone=.8 air=.3
+oh  ..X. ..x. ..X. ..x.  dec=.28 lvl=.55
+rd  x.x. x.x. x.x. x.x?  lvl=.35 bell=.7 tune=0
+rs  x..                  lvl=.5 dly=.55 pan=-.4
+lt  e(3,7)               tune=-2 bend=.8 drive=1 dec=.2 lvl=.5 pan=-.25
+pc  e(7,13)              fm=1 ratio=.85 lvl=.5 dly=.35 pan=.35 tune=-13
+bs  .x.x .x.x .x.x .x.R  cut=.42 res=.75 dec=.12
+bs  notes=0,0,0,1,0,0,12,1
+st  x... .... ..?. .... .... .... 3... ....  chord=dim cut=.6 res=.5 dec=.15 verb=.5 dly=.4 lvl=.45
