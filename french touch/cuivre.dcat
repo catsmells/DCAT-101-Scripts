@@ -1,0 +1,13 @@
+# F · CUIVRE :: the stabs answer back!
+bpm 128   swing 58   key a
+prog 0 0 -7 -5
+filter 0   reso .3   pump .8   drive .3   glue .5
+
+bd  x... x... x... x...  punch=.6 rumble=.25
+cp  .... X... .... X...  verb=.3
+ch  xoxo xoxo xoxo xoxo  dec=.2
+oh  ..x. ..x. ..x. ..x.  dec=.45
+rd  x.x. x.x. x.x. x.x.  lvl=.3
+bs  x.x. x.x. x.x. x.xx  cut=.52 dec=.25
+bs  notes=0,12,0,12,0,12,0,12,10
+st  x.xx ..x. x.xx ..x.  chord=m9 cut=.72 dec=.3
