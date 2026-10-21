@@ -1,0 +1,11 @@
+# H · AUBE :: sunrise, last record
+bpm 122   swing 62   key a
+filter -.1   reso .3   pump .62   drive .5   glue .71
+
+bd  x... x... x... x...  punch=.4 rumble=.3
+ch  ..x. ..x. ..x. ..x.  dec=.25 lvl=.5
+rs  ...x .... .x.. ....  lvl=.45 verb=.3 dly=.4
+bs  x... .... x... ..x.  notes=0,0,-2 cut=.35 dec=.5
+st  x... ..x. .... ....  chord=m11 cut=.5 dec=.8
+st  verb=.6 dly=.5
+sd  .... .... .... ....
