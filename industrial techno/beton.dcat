@@ -1,0 +1,8 @@
+# A · BETON :: what the fuck am i doing
+bpm 128   swing 51   key a
+filter 0   pump .55   drive .3   glue .4
+
+bd  x... x... x... x...  punch=.65 rumble=.7 dec=.4
+ch  ..x. ..x. ..x. ..x.  dec=.15 lvl=.5
+rs  ...x .... .x.. ....  lvl=.45 dly=.35
+pc  e(5,12)              fm=.6 ratio=.55 lvl=.45 dly=.4
