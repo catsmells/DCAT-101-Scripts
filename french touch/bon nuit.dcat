@@ -1,0 +1,10 @@
+# C · BON NUIT :: easy transition loop
+bpm 130   swing 63   key ab
+filter -.55   reso .5   pump .3   drive .2   glue .3
+verb .8   delay .7   dtime 3   dfb .65
+
+bd  x... x... x... x...  lvl=0
+st  x... .... .... ....  chord=m11 cut=.3 dec=.9 verb=.8 dly=.6
+pc  e(5,13)              fm=.2 ratio=.7 lvl=.3 dly=.7 pan=.35
+rs  x..                  lvl=.3 dly=.6 pan=-.35
+ch  ...o ...o ...o ...o  lvl=.3 dec=.1
